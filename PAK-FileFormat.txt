@@ -1,0 +1,12 @@
+// ARCHIVE HEADER
+  4 - Number Of Files
+
+// DIRECTORY
+  // for each file
+    100 - Filename (null terminated, filled with byte 204)
+    4 - File Offset (relative to the start of the file data)
+    4 - File Length
+
+// FILE DATA
+  // for each file
+    X - File Data
