@@ -7,6 +7,5 @@ Written in C#, requires .NET Framework 4.8 Runtime
 
 
 This tool is a part of the RePACKER Project - a project that aims to develop unpacker/repacker for a lot of games.
-Visit official website for more tools.
 
-https://repacker.org
+Visit official website for more tools - https://repacker.org
